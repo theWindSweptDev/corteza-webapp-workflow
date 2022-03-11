@@ -25,7 +25,7 @@
     "file-saver": "^2.0.5",
     "mxgraph": "^4.2.0",
     "portal-vue": "^2.1.7",
-    "v-jsoneditor": "^1.4.2",
+    "v-jsoneditor": "^1.4.5",
     "vue": "2.6.14",
     "vue-router": "^3.4.9",
     "vue-select": "^3.11.2",
